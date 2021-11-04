@@ -1,0 +1,12 @@
+/Users/salavudeen/Projects/ArchiLog/Archi.Librairy/bin/Debug/net5.0/Archi.Librairy.deps.json
+/Users/salavudeen/Projects/ArchiLog/Archi.Librairy/bin/Debug/net5.0/Archi.Librairy.dll
+/Users/salavudeen/Projects/ArchiLog/Archi.Librairy/bin/Debug/net5.0/ref/Archi.Librairy.dll
+/Users/salavudeen/Projects/ArchiLog/Archi.Librairy/bin/Debug/net5.0/Archi.Librairy.pdb
+/Users/salavudeen/Projects/ArchiLog/Archi.Librairy/obj/Debug/net5.0/Archi.Librairy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salavudeen/Projects/ArchiLog/Archi.Librairy/obj/Debug/net5.0/Archi.Librairy.AssemblyInfoInputs.cache
+/Users/salavudeen/Projects/ArchiLog/Archi.Librairy/obj/Debug/net5.0/Archi.Librairy.AssemblyInfo.cs
+/Users/salavudeen/Projects/ArchiLog/Archi.Librairy/obj/Debug/net5.0/Archi.Librairy.csproj.CoreCompileInputs.cache
+/Users/salavudeen/Projects/ArchiLog/Archi.Librairy/obj/Debug/net5.0/Archi.Librairy.dll
+/Users/salavudeen/Projects/ArchiLog/Archi.Librairy/obj/Debug/net5.0/ref/Archi.Librairy.dll
+/Users/salavudeen/Projects/ArchiLog/Archi.Librairy/obj/Debug/net5.0/Archi.Librairy.pdb
+/Users/salavudeen/Projects/ArchiLog/Archi.Librairy/obj/Debug/net5.0/Archi.Librairy.csproj.AssemblyReference.cache

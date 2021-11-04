@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{5CBCFF65-7831-47BE-8D58-7EE4CD956459}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Archi.Librairy/Models/ModelBase.cs">
+    <Files>
+      <File FileName="Archi.API/Controllers/Pizzas.cs" Line="27" Column="27" />
+      <File FileName="Archi.API/Data/ArchiDbContext.cs" Line="17" Column="10" />
+      <File FileName="Archi.API/Controllers/CustomersController.cs" Line="40" Column="68" />
+      <File FileName="Archi.Librairy/Controllers/BaseController.cs" Line="21" Column="1" />
+      <File FileName="Archi.API/Models/Pizza.cs" Line="1" Column="1" />
+      <File FileName="Archi.API/Models/Customer.cs" Line="14" Column="31" />
+      <File FileName="Archi.Librairy/Models/ModelBase.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArchiLog" expanded="True">
+            <Node name="Archi.API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="Archi.Librairy" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ModelBase.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Archi.API PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
